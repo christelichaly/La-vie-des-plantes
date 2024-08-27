@@ -1,0 +1,2 @@
+2024/08/25 16:55:29 [error] 11156#0: *115155 directory index of "/Users/willy/Local Sites/la-vie-des-plantes/app/public/wp-content/uploads/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/ HTTP/1.0", host: "la-vie-des-plantes.local"
+2024/08/25 16:55:32 [error] 11156#0: *115158 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/secupress-temporary-file-cafe0e.php HTTP/1.0", host: "la-vie-des-plantes.local"
